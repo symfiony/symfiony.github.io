@@ -14,7 +14,7 @@
 }
 
 .carousel-1 h1, .carousel-2 h1, .carousel-3 h1, .carousel-4 h1{
-	font-family: "dosis";
+	font-family: 'Dosis';
 	font-weight: 600;
 	color:#FFF;
 	text-shadow: 0px 1px 10px #C7C8CA, 0px 2px 10px #575757, 0px 3px 10px #2f451d, 0px 4px 10px #0e2b48;
@@ -219,7 +219,7 @@ select, textarea {
 a{
 	color:#F26F70;
 	font-size:24px;
-	font-family:'dosis';
+	font-family:'Dosis';
 	font-weight:700;text-decoration:none;
 	-webkit-transition:all ease .3s;
 	-moz-transition:all ease .3s;
@@ -234,7 +234,7 @@ a{
 }
 
 a.textlink{
-	font-family:'dosis',sans-serif;
+	font-family:'Dosis',sans-serif;
 	font-weight:400;
 	border-bottom: 1px dotted #EB5A49;
 	color:#F26F70}
@@ -243,7 +243,7 @@ a:hover{color:#aaa;text-decoration:none;}
 
 
 h1{
-	font-family: "Roboto";
+	font-family: 'Roboto';
 	letter-spacing:1px;
 	font-weight:700;
 	color: #ffebeb;
@@ -251,7 +251,7 @@ h1{
 
 h2{
 	font-size:42px;
-	font-family: "Dosis";
+	font-family: 'Dosis';
 	font-weight:700;
 	color:#FF1493;
 	line-height:30px;
@@ -259,7 +259,7 @@ h2{
 
 h3{
 	font-size:24px;
-	font-family: "Dosis";
+	font-family: 'Dosis';
 	font-weight:700;
 	color:#cab2ff;
 	line-height:30px;
