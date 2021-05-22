@@ -7,13 +7,6 @@
  */
 /*LIST*/
 
-@font-face {
-  font-family: 'Dosis';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Dosis Regular'), local('Dosis-Regular'), url(http://fonts.gstatic.com/s/dosis/v4/xIAtSaglM8LZOYdGmG1JqQ.woff) format('woff');
-}
-
 
 
 .carousel-1, .carousel-2, .carousel-3, .carousel-4 {
